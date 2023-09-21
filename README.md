@@ -10,7 +10,9 @@ Project Summary:
 • Modeled with 5 team members to understand the findings and draw conclusions from the study of Facebook data.
 
 
+
 Objective: To apply programming skills and data analytics techniques to solve a real-world problem using Python, NumPy, and Pandas
+
 
 
 Project Overview:
@@ -18,7 +20,9 @@ Project Overview:
 Teams will be tasked with selecting a dataset of their choice, performing data cleaning and preprocessing, conducting exploratory data analysis (EDA), and applying various statistical techniques and/or machine learning algorithms to answer specific research questions. Teams will then present their findings using a short PowerPoint presentation.
 
 
+
 Instructions:
+
 
 1. Select a dataset:
 
@@ -30,11 +34,13 @@ Instructions:
 
 
 
+
 2. Define the research question(s):
 
 • Clearly state the problem or research question(s) that you intend to address using data analytics.
 
 • The question(s) should be specific and well-defined and should require the application of data analytics techniques to be answered.
+
 
 
 
@@ -48,6 +54,7 @@ Instructions:
 
 
 
+
 4. Exploratory Data Analysis (EDA):
 
 • Conduct an EDA to understand the structure, distribution, and relationships among variables in the dataset.
@@ -57,11 +64,13 @@ Instructions:
 
 
 
+
 5. Data Analytics Techniques:
 
 • Apply relevant statistical techniques and/or machine learning algorithms to answer the research question(s).
 
 • Validate your results and discuss any limitations or assumptions made during the analysis.
+
 
 
 
