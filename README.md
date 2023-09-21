@@ -1,7 +1,7 @@
 # Programming-for-Analytics-Research-Project
 ## CIS 3120 Project
 
-Project Summary:
+### Project Summary:
 
 • Constructed a Facebook dataset to study user information based on age, gender, tenure, and likes.
 
@@ -11,17 +11,18 @@ Project Summary:
 
 
 
-Objective: To apply programming skills and data analytics techniques to solve a real-world problem using Python, NumPy, and Pandas
+### Objective: 
+To apply programming skills and data analytics techniques to solve a real-world problem using Python, NumPy, and Pandas
 
 
 
-Project Overview:
+### Project Overview:
 
 Teams will be tasked with selecting a dataset of their choice, performing data cleaning and preprocessing, conducting exploratory data analysis (EDA), and applying various statistical techniques and/or machine learning algorithms to answer specific research questions. Teams will then present their findings using a short PowerPoint presentation.
 
 
 
-Instructions:
+### Instructions:
 
 
 1. Select a dataset:
